@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>AboutMe</title>
+  </head>
+  <body>
+    <a href="index.html">Home</a>
+    <a href="portfolio.html">Portfolio</a>
+    <a href="/My_Website/About Me.html">AboutMe</a>
+    <h1>This is a Page!</h1>
+    <img src="/My_Website/images/video-game-1.jpg" height="250">
+       <img src="/My_Website/images/p054q93q.jpg" height="250">
+  </body>
+</html>
